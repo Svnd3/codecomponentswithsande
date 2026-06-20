@@ -9,10 +9,11 @@ Built in vanilla HTML, CSS, and JavaScript — no frameworks required.
 
 Components are added regularly. Each file is self-contained and ready to drop into any project.
 
-| file | description |
-|------|-------------|
+| file / folder | description |
+|---------------|-------------|
 | `scroll_effect_instagram_carousel_1.html` | Scroll-driven Instagram-style carousel, part 1 |
 | `scroll_effect_instagram_carousel_2.html` | Scroll-driven Instagram-style carousel, part 2 |
+| `underwater_water_ripple/` | Mouse-reactive water ripple — custom WebGL engine, zero dependencies |
 
 > more components dropped weekly.
 
